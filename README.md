@@ -1,2 +1,2 @@
-#Grzybąg jestem Łuksz
-#nie wiadomo co się dzieje lolix
+Grzybąg jestem Łuksz <br>
+nie wiadomo co się dzieje lolix
